@@ -107,6 +107,8 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 													  GridAdapterCallback/*, AddChannelDialogListener2*/,
 													  SAPUpdaterCallbacks
 {
+    final public static  boolean   USE_ACTIONBAR_TABS	= false;
+
 	ListView 	list_docview = null;
 
 	FilesList	filesList	 = null;
@@ -1028,7 +1030,21 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 		int selectedTab = SharedSettings.getInstance().selectedTabNum;
 		
         bar = getActionBar();
-        bar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
+        if(USE_ACTIONBAR_TABS){  
+        	bar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
+        }else{
+        	selectedTab = 0;
+        	SharedSettings _set = SharedSettings.getInstance();
+        	_set.selectedTabNum = 0;
+        	_set.savePrefSettings();
+        	
+        	currentList = camerasList;
+			list_docview.setAdapter(currentList);
+			currentList.Refresh();					
+			refreshListEmptyState();
+			invalidateOptionsMenu();
+        }
+        
         bar.setTitle(getResources().getString(R.string.app_name));
         
         bar_files_tablistener = new TabListener()
@@ -1124,22 +1140,26 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 			public void onTabReselected(Tab tab, FragmentTransaction ft){}
         };
 
-        tab_files = bar.newTab();
-        tab_streams = bar.newTab();
-        tab_cameras = bar.newTab();
-        bar.addTab(tab_cameras.setText(getResources().getString(R.string.tab_name_cameras)).setTabListener(bar_cameras_tablistener), false);
-        bar.addTab(tab_streams.setText(getResources().getString(R.string.tab_name_streams)).setTabListener(bar_streams_tablistener), false);
-        bar.addTab(tab_files.setText(getResources().getString(R.string.tab_name_files)).setTabListener(bar_files_tablistener), false);
+        if(USE_ACTIONBAR_TABS){
+        	tab_files = bar.newTab();
+        	tab_streams = bar.newTab();
+        	tab_cameras = bar.newTab();
+        	bar.addTab(tab_cameras.setText(getResources().getString(R.string.tab_name_cameras)).setTabListener(bar_cameras_tablistener), false);
+        	bar.addTab(tab_streams.setText(getResources().getString(R.string.tab_name_streams)).setTabListener(bar_streams_tablistener), false);
+        	bar.addTab(tab_files.setText(getResources().getString(R.string.tab_name_files)).setTabListener(bar_files_tablistener), false);
 		
-		currentList = streamsList;
+    		Log.v(TAG, "Selected tab on start: " + selectedTab);
+    		if (selectedTab == 0)
+    			bar.selectTab(tab_cameras);
+    		if (selectedTab == 1)
+    			bar.selectTab(tab_streams);
+    		if (selectedTab == 2)
+    			bar.selectTab(tab_files);
+
+    		currentList = camerasList;
+        }
 		
-		Log.v(TAG, "Selected tab on start: " + selectedTab);
-		if (selectedTab == 0)
-			bar.selectTab(tab_cameras);
-		if (selectedTab == 1)
-			bar.selectTab(tab_streams);
-		if (selectedTab == 2)
-			bar.selectTab(tab_files);
+
 			
 		String mLocation = null;
 
@@ -2399,6 +2419,11 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 
     }
     
+    @SuppressLint("NewApi")
+	void _remove_on_global(){
+		list_docview.getViewTreeObserver().removeOnGlobalLayoutListener(layoutListListener);
+		list_docview.getViewTreeObserver().removeOnGlobalLayoutListener(layoutEmptyListener);
+    }
 
     @Override
     protected void onDestroy()
@@ -2451,8 +2476,9 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 		}
 		else 
 		{
-			list_docview.getViewTreeObserver().removeOnGlobalLayoutListener(layoutListListener);
-			list_docview.getViewTreeObserver().removeOnGlobalLayoutListener(layoutEmptyListener);
+	        if(Build.VERSION.SDK_INT >= 16){
+	        	_remove_on_global();
+	        }
 		}
 		
         Log.i(TAG, "<=onDestroy");
@@ -2566,6 +2592,12 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 		startActivity(intent);
 	}
 
+	@SuppressLint("NewApi")
+	void _setBackground()
+	{
+		playerContainer.setBackground(getResources().getDrawable(R.drawable.layout_border));
+	}
+	
 //  @SuppressLint("NewApi")
 	private void showControlPanelAndGrid() 
     {
@@ -2599,7 +2631,9 @@ public class MainActivity extends Activity implements MediaPlayerCallback,
 		}
 		else 
 		{
-			playerContainer.setBackground(getResources().getDrawable(R.drawable.layout_border));
+	        if(Build.VERSION.SDK_INT >= 16){
+				_setBackground();
+	        }
 		}
 		
     	if (player != null)
