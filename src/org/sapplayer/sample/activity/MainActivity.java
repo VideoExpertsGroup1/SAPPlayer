@@ -1,13 +1,13 @@
 /*
  *
- * Copyright (c) 2010-2014 EVE GROUP PTE. LTD.
+ * Copyright (c) 2010-2017 VXG Inc.
  *
  */
 
 
 package org.sapplayer.sample.activity;
 
-import java.io.File;
+import java.io.File ;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
