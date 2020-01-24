@@ -1,0 +1,53 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* README.md
+* ic_launcher-web.png
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\armeabi-v7a\librtspplr-armeabi-v7a-noneon.so => app\src\main\jniLibs\armeabi-v7a\librtspplr-armeabi-v7a-noneon.so
+* libs\armeabi-v7a\librtspplr-armeabi-v7a.so => app\src\main\jniLibs\armeabi-v7a\librtspplr-armeabi-v7a.so
+* libs\armeabi-v7a\librtstm-armeabi-v7a.so => app\src\main\jniLibs\armeabi-v7a\librtstm-armeabi-v7a.so
+* libs\armeabi-v7a\libSDL2-armeabi-v7a-noneon.so => app\src\main\jniLibs\armeabi-v7a\libSDL2-armeabi-v7a-noneon.so
+* libs\armeabi-v7a\libSDL2-armeabi-v7a.so => app\src\main\jniLibs\armeabi-v7a\libSDL2-armeabi-v7a.so
+* libs\armeabi-v7a\libyuv_shared-armeabi-v7a-noneon.so => app\src\main\jniLibs\armeabi-v7a\libyuv_shared-armeabi-v7a-noneon.so
+* libs\armeabi-v7a\libyuv_shared-armeabi-v7a.so => app\src\main\jniLibs\armeabi-v7a\libyuv_shared-armeabi-v7a.so
+* libs\armeabi\librtspplr-armeabi.so => app\src\main\jniLibs\armeabi\librtspplr-armeabi.so
+* libs\armeabi\librtstm-armeabi.so => app\src\main\jniLibs\armeabi\librtstm-armeabi.so
+* libs\armeabi\libSDL2-armeabi.so => app\src\main\jniLibs\armeabi\libSDL2-armeabi.so
+* libs\armeabi\libyuv_shared-armeabi.so => app\src\main\jniLibs\armeabi\libyuv_shared-armeabi.so
+* libs\mediaplayersdk.jar => app\libs\mediaplayersdk.jar
+* libs\x86\librtspplr-x86.so => app\src\main\jniLibs\x86\librtspplr-x86.so
+* libs\x86\librtstm-x86.so => app\src\main\jniLibs\x86\librtstm-x86.so
+* libs\x86\libSDL2-x86.so => app\src\main\jniLibs\x86\libSDL2-x86.so
+* libs\x86\libyuv_shared-x86.so => app\src\main\jniLibs\x86\libyuv_shared-x86.so
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

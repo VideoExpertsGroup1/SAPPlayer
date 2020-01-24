@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-mdpi-v4\\values-large-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "2,1,3,6,5,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "90,17,153,312,239,375",
+                        "endColumns": "61,71,78,61,71,77",
+                        "endOffsets": "147,84,227,369,306,448"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,268,330,402",
+                        "endColumns": "61,71,78,61,71,77",
+                        "endOffsets": "112,184,263,325,397,475"
+                    }
+                }
+            ]
+        }
+    ]
+}
