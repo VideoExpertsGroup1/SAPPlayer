@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="land_dummy_weight" type="dimen"> 0.74 </item>
+    <item name="land_player_control_caption" type="dimen"> 0.08 </item>
+    <item name="land_player_control_control_weight" type="dimen"> 0.18 </item>
+    <item name="port_dummy_weight" type="dimen"> 0.82 </item>
+    <item name="port_player_control_caption" type="dimen"> 0.08 </item>
+    <item name="port_player_control_control_weight" type="dimen"> 0.1 </item>
+</resources>

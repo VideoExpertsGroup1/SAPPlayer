@@ -1,0 +1,775 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.sapplayer.sample"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="14"
+9-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="19" />
+10-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+12-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:8:5-79
+12-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:8:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:9:5-67
+13-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:9:22-64
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+14-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:10:5-86
+14-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:10:22-83
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:11:5-81
+15-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:11:22-78
+16    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+16-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:12:5-75
+16-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:12:22-72
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:13:5-68
+17-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:13:22-65
+18    <uses-permission android:name="android.permission.GET_TASKS" />
+18-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:14:5-68
+18-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:14:22-65
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:15:5-78
+19-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:15:22-76
+20    <uses-permission android:name="android.permission.READ_LOGS" />
+20-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:16:5-67
+20-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:16:22-65
+21
+22    <application
+22-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:18:5-281:16
+23        android:allowBackup="true"
+23-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:19:9-35
+24        android:debuggable="true"
+25        android:hardwareAccelerated="true"
+25-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:24:9-43
+26        android:icon="@drawable/app"
+26-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:20:9-37
+27        android:label="@string/app_name"
+27-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:22:9-41
+28        android:largeHeap="true"
+28-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:25:9-33
+29        android:logo="@drawable/app"
+29-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:21:9-37
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:23:9-40
+32        <activity
+32-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:27:9-273:20
+33            android:name="org.sapplayer.sample.activity.MainActivity"
+33-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:28:13-70
+34            android:configChanges="orientation|screenSize"
+34-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:30:13-59
+35            android:label="@string/app_name"
+35-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:29:13-45
+36            android:noHistory="true" >
+36-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:31:13-37
+37            <intent-filter>
+37-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:33:13-36:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:34:17-69
+38-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:34:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:35:17-77
+40-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:35:27-74
+41            </intent-filter>
+42            <!-- This filter captures protocols without type info -->
+43            <intent-filter>
+43-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:38:13-54:29
+44                <action android:name="android.intent.action.VIEW" />
+44-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+44-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+45
+46                <category android:name="android.intent.category.DEFAULT" />
+46-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+46-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+47                <category android:name="android.intent.category.BROWSABLE" />
+47-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+47-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+48
+49                <data android:scheme="rtmp" />
+49-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+49-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+50                <data android:scheme="rtmpe" />
+50-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+50-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+51                <data android:scheme="rtmps" />
+51-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+51-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+52                <data android:scheme="rtp" />
+52-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+52-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+53                <data android:scheme="rtsp" />
+53-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+53-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+54                <data android:scheme="mms" />
+54-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+54-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+55                <data android:scheme="mmsh" />
+55-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+55-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+56                <data android:scheme="icyx" />
+56-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+56-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+57                <data android:scheme="httplive" />
+57-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+57-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+58                <data android:scheme="udp" />
+58-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+58-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+59                <data android:scheme="vlc" />
+59-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+59-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+60            </intent-filter>
+61            <!-- This filter captures protocols with type info -->
+62            <intent-filter>
+62-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:56:13-74:29
+63                <action android:name="android.intent.action.VIEW" />
+63-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+63-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+65-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+66                <category android:name="android.intent.category.BROWSABLE" />
+66-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+66-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+67
+68                <data android:mimeType="video/*" />
+68-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+68-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+69                <data android:mimeType="audio/*" />
+69-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+69-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+70                <data android:scheme="rtmp" />
+70-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+70-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+71                <data android:scheme="rtmpe" />
+71-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+71-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+72                <data android:scheme="rtmps" />
+72-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+72-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+73                <data android:scheme="rtp" />
+73-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+73-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+74                <data android:scheme="rtsp" />
+74-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+74-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+75                <data android:scheme="mms" />
+75-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+75-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+76                <data android:scheme="mmsh" />
+76-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+76-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+77                <data android:scheme="icyx" />
+77-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+77-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+78                <data android:scheme="httplive" />
+78-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+78-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+79                <data android:scheme="udp" />
+79-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+79-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+80            </intent-filter>
+81            <intent-filter>
+81-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:75:13-109:29
+82                <action android:name="android.intent.action.VIEW" />
+82-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+82-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+83
+84                <category android:name="android.intent.category.DEFAULT" />
+84-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+84-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+85                <category android:name="android.intent.category.BROWSABLE" />
+85-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+85-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+86
+87                <data android:scheme="" />
+87-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+87-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+88                <data android:scheme="file" />
+88-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+88-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+89                <data android:scheme="ftp" />
+89-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+89-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+90                <data android:scheme="content" />
+90-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+90-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+91                <data android:scheme="http" />
+91-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+91-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+92                <data android:scheme="https" />
+92-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+92-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+93                <data android:mimeType="video/*" />
+93-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+93-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+94                <data android:mimeType="audio/*" />
+94-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+94-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+95                <data android:mimeType="*/rmvb" />
+95-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+95-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+96                <data android:mimeType="*/avi" />
+96-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+96-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+97                <data android:mimeType="*/mkv" />
+97-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+97-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+98                <data android:mimeType="application/3gpp*" />
+98-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+98-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+99                <data android:mimeType="application/mp4" />
+99-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+99-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+100                <data android:mimeType="application/mpeg*" />
+100-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+100-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+101                <data android:mimeType="application/ogg" />
+101-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+101-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+102                <data android:mimeType="application/sdp" />
+102-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+102-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+103                <data android:mimeType="application/vnd.3gp*" />
+103-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+103-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+104                <data android:mimeType="application/vnd.apple.mpegurl" />
+104-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+104-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+105                <data android:mimeType="application/vnd.dvd*" />
+105-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+105-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+106                <data android:mimeType="application/vnd.dolby*" />
+106-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+106-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+107                <data android:mimeType="application/vnd.rn-realmedia*" />
+107-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+107-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+108                <data android:mimeType="application/x-extension-mp4" />
+108-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+108-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+109                <data android:mimeType="application/x-flac" />
+109-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+109-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+110                <data android:mimeType="application/x-matroska" />
+110-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+110-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+111                <data android:mimeType="application/x-mpegURL" />
+111-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+111-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+112                <data android:mimeType="application/x-ogg" />
+112-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+112-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+113                <data android:mimeType="application/x-quicktimeplayer" />
+113-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+113-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+114                <data android:mimeType="application/x-shockwave-flash" />
+114-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+114-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+115                <data android:mimeType="application/xspf+xml" />
+115-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+115-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+116                <data android:mimeType="misc/ultravox" />
+116-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+116-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+117            </intent-filter>
+118            <intent-filter>
+118-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:111:13-123:20
+119                <action android:name="android.intent.action.VIEW" />
+119-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+119-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+120
+121                <category android:name="android.intent.category.DEFAULT" />
+121-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+121-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+122                <category android:name="android.intent.category.BROWSABLE" />
+122-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+122-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+123
+124                <data
+124-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+125                    android:host="*"
+125-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+126                    android:pathPattern=".*\\.m3u8"
+126-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+127                    android:scheme="http" />
+127-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+128                <data
+128-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+129                    android:host="*"
+129-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+130                    android:pathPattern=".*\\..*\\.m3u8"
+130-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+131                    android:scheme="http" />
+131-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+132                <data
+132-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+133                    android:host="*"
+133-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+134                    android:pathPattern=".*\\..*\\..*\\..m3u8"
+134-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+135                    android:scheme="http" />
+135-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+136                <data
+136-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+137                    android:host="*"
+137-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+138                    android:pathPattern=".*\\..*\\..*\\..*\\.m3u8"
+138-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+139                    android:scheme="http" />
+139-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+140            </intent-filter>
+141            <intent-filter>
+141-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:125:4-137:20
+142                <action android:name="android.intent.action.VIEW" />
+142-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+142-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+143
+144                <category android:name="android.intent.category.DEFAULT" />
+144-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+144-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+145                <category android:name="android.intent.category.BROWSABLE" />
+145-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+145-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+146
+147                <data
+147-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+148                    android:host="*"
+148-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+149                    android:pathPattern=".*\\.m3u"
+149-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+150                    android:scheme="http" />
+150-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+151                <data
+151-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+152                    android:host="*"
+152-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+153                    android:pathPattern=".*\\..*\\.m3u"
+153-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+154                    android:scheme="http" />
+154-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+155                <data
+155-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+156                    android:host="*"
+156-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+157                    android:pathPattern=".*\\..*\\..*\\..m3u"
+157-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+158                    android:scheme="http" />
+158-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+159                <data
+159-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+160                    android:host="*"
+160-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+161                    android:pathPattern=".*\\..*\\..*\\..*\\.m3u"
+161-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+162                    android:scheme="http" />
+162-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+163            </intent-filter>
+164            <intent-filter>
+164-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:139:13-272:29
+165                <action android:name="android.intent.action.VIEW" />
+165-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+165-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+166
+167                <category android:name="android.intent.category.DEFAULT" />
+167-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+167-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+168                <category android:name="android.intent.category.BROWSABLE" />
+168-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+168-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+169
+170                <data android:scheme="" />
+170-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+170-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+171                <data android:scheme="file" />
+171-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+171-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+172                <data android:scheme="ftp" />
+172-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+172-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+173                <data android:scheme="content" />
+173-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+173-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+174                <data android:scheme="http" />
+174-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+174-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+175                <data android:scheme="https" />
+175-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+175-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+176                <data android:host="*" />
+176-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+176-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+177
+178                <!-- video -->
+179
+180                <data android:pathPattern=".*\\.3g2" />
+180-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+180-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+181                <data android:pathPattern=".*\\.3gp" />
+181-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+181-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+182                <data android:pathPattern=".*\\.3gp2" />
+182-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+182-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+183                <data android:pathPattern=".*\\.3gpp" />
+183-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+183-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+184                <data android:pathPattern=".*\\.amv" />
+184-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+184-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+185                <data android:pathPattern=".*\\.asf" />
+185-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+185-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+186                <data android:pathPattern=".*\\.avi" />
+186-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+186-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+187                <data android:pathPattern=".*\\.divx" />
+187-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+187-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+188                <data android:pathPattern=".*\\.drc" />
+188-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+188-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+189                <data android:pathPattern=".*\\.dv" />
+189-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+189-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+190                <data android:pathPattern=".*\\.f4v" />
+190-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+190-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+191                <data android:pathPattern=".*\\.flv" />
+191-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+191-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+192                <data android:pathPattern=".*\\.gvi" />
+192-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+192-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+193                <data android:pathPattern=".*\\.gxf" />
+193-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+193-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+194                <data android:pathPattern=".*\\.ismv" />
+194-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+194-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+195                <data android:pathPattern=".*\\.iso" />
+195-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+195-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+196                <data android:pathPattern=".*\\.m1v" />
+196-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+196-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+197                <data android:pathPattern=".*\\.m2v" />
+197-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+197-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+198                <data android:pathPattern=".*\\.m2t" />
+198-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+198-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+199                <data android:pathPattern=".*\\.m2ts" />
+199-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+199-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+200                <data android:pathPattern=".*\\.m3u" />
+200-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+200-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+201                <!-- <data android:pathPattern=".*\\.m3u8" /> -->
+202                <data android:pathPattern=".*\\.mkv" />
+202-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+202-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+203                <data android:pathPattern=".*\\.mov" />
+203-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+203-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+204                <data android:pathPattern=".*\\.mp2" />
+204-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+204-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+205                <data android:pathPattern=".*\\.mp2v" />
+205-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+205-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+206                <data android:pathPattern=".*\\.mp4" />
+206-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+206-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+207                <data android:pathPattern=".*\\.mp4v" />
+207-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+207-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+208                <data android:pathPattern=".*\\.mpe" />
+208-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+208-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+209                <data android:pathPattern=".*\\.mpeg" />
+209-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+209-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+210                <data android:pathPattern=".*\\.mpeg1" />
+210-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+210-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+211                <data android:pathPattern=".*\\.mpeg2" />
+211-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+211-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+212                <data android:pathPattern=".*\\.mpeg4" />
+212-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+212-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+213                <data android:pathPattern=".*\\.mpg" />
+213-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+213-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+214                <data android:pathPattern=".*\\.mpv2" />
+214-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+214-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+215                <data android:pathPattern=".*\\.mts" />
+215-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+215-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+216                <data android:pathPattern=".*\\.mtv" />
+216-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+216-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+217                <data android:pathPattern=".*\\.mxf" />
+217-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+217-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+218                <data android:pathPattern=".*\\.mxg" />
+218-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+218-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+219                <data android:pathPattern=".*\\.nsv" />
+219-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+219-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+220                <data android:pathPattern=".*\\.nut" />
+220-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+220-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+221                <data android:pathPattern=".*\\.nuv" />
+221-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+221-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+222                <data android:pathPattern=".*\\.ogm" />
+222-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+222-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+223                <data android:pathPattern=".*\\.ogv" />
+223-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+223-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+224                <data android:pathPattern=".*\\.ogx" />
+224-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+224-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+225                <data android:pathPattern=".*\\.ps" />
+225-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+225-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+226                <data android:pathPattern=".*\\.rec" />
+226-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+226-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+227                <data android:pathPattern=".*\\.rm" />
+227-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+227-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+228                <data android:pathPattern=".*\\.rmvb" />
+228-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+228-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+229                <data android:pathPattern=".*\\.tod" />
+229-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+229-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+230                <data android:pathPattern=".*\\.ts" />
+230-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+230-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+231                <data android:pathPattern=".*\\.tts" />
+231-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+231-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+232                <data android:pathPattern=".*\\.vob" />
+232-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+232-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+233                <data android:pathPattern=".*\\.vro" />
+233-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+233-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+234                <data android:pathPattern=".*\\.webm" />
+234-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+234-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+235                <data android:pathPattern=".*\\.wm" />
+235-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+235-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+236                <data android:pathPattern=".*\\.wmv" />
+236-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+236-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+237                <data android:pathPattern=".*\\.wtv" />
+237-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+237-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+238                <data android:pathPattern=".*\\.xesc" />
+238-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+238-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+239                <data android:pathPattern=".*\\.3G2" />
+239-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+239-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+240                <data android:pathPattern=".*\\.3GP" />
+240-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+240-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+241                <data android:pathPattern=".*\\.3GP2" />
+241-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+241-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+242                <data android:pathPattern=".*\\.3GPP" />
+242-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+242-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+243                <data android:pathPattern=".*\\.AMV" />
+243-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+243-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+244                <data android:pathPattern=".*\\.ASF" />
+244-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+244-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+245                <data android:pathPattern=".*\\.AVI" />
+245-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+245-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+246                <data android:pathPattern=".*\\.DIVX" />
+246-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+246-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+247                <data android:pathPattern=".*\\.DRC" />
+247-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+247-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+248                <data android:pathPattern=".*\\.DV" />
+248-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+248-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+249                <data android:pathPattern=".*\\.F4V" />
+249-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+249-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+250                <data android:pathPattern=".*\\.FLV" />
+250-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+250-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+251                <data android:pathPattern=".*\\.GVI" />
+251-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+251-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+252                <data android:pathPattern=".*\\.GXF" />
+252-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+252-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+253                <data android:pathPattern=".*\\.ISMV" />
+253-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+253-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+254                <data android:pathPattern=".*\\.ISO" />
+254-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+254-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+255                <data android:pathPattern=".*\\.M1V" />
+255-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+255-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+256                <data android:pathPattern=".*\\.M2V" />
+256-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+256-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+257                <data android:pathPattern=".*\\.M2T" />
+257-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+257-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+258                <data android:pathPattern=".*\\.M2TS" />
+258-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+258-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+259                <data android:pathPattern=".*\\.M3U" />
+259-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+259-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+260                <!-- <data android:pathPattern=".*\\.M3U8" /> -->
+261                <data android:pathPattern=".*\\.MKV" />
+261-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+261-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+262                <data android:pathPattern=".*\\.MOV" />
+262-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+262-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+263                <data android:pathPattern=".*\\.MP2" />
+263-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+263-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+264                <data android:pathPattern=".*\\.MP2V" />
+264-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+264-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+265                <data android:pathPattern=".*\\.MP4" />
+265-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+265-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+266                <data android:pathPattern=".*\\.MP4V" />
+266-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+266-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+267                <data android:pathPattern=".*\\.MPE" />
+267-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+267-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+268                <data android:pathPattern=".*\\.MPEG" />
+268-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+268-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+269                <data android:pathPattern=".*\\.MPEG1" />
+269-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+269-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+270                <data android:pathPattern=".*\\.MPEG2" />
+270-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+270-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+271                <data android:pathPattern=".*\\.MPEG4" />
+271-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+271-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+272                <data android:pathPattern=".*\\.MPG" />
+272-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+272-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+273                <data android:pathPattern=".*\\.MPV2" />
+273-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+273-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+274                <data android:pathPattern=".*\\.MTS" />
+274-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+274-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+275                <data android:pathPattern=".*\\.MTV" />
+275-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+275-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+276                <data android:pathPattern=".*\\.MXF" />
+276-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+276-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+277                <data android:pathPattern=".*\\.MXG" />
+277-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+277-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+278                <data android:pathPattern=".*\\.NSV" />
+278-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+278-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+279                <data android:pathPattern=".*\\.NUT" />
+279-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+279-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+280                <data android:pathPattern=".*\\.NUV" />
+280-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+280-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+281                <data android:pathPattern=".*\\.OGM" />
+281-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+281-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+282                <data android:pathPattern=".*\\.OGV" />
+282-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+282-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+283                <data android:pathPattern=".*\\.OGX" />
+283-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+283-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+284                <data android:pathPattern=".*\\.PS" />
+284-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+284-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+285                <data android:pathPattern=".*\\.REC" />
+285-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+285-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+286                <data android:pathPattern=".*\\.RM" />
+286-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+286-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+287                <data android:pathPattern=".*\\.RMVB" />
+287-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+287-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+288                <data android:pathPattern=".*\\.TOD" />
+288-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+288-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+289                <data android:pathPattern=".*\\.TS" />
+289-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+289-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+290                <data android:pathPattern=".*\\.TTS" />
+290-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+290-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+291                <data android:pathPattern=".*\\.VOB" />
+291-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+291-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+292                <data android:pathPattern=".*\\.VRO" />
+292-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+292-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+293                <data android:pathPattern=".*\\.WEBM" />
+293-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+293-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+294                <data android:pathPattern=".*\\.WM" />
+294-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+294-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+295                <data android:pathPattern=".*\\.WMV" />
+295-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+295-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+296                <data android:pathPattern=".*\\.WTV" />
+296-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+296-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+297                <data android:pathPattern=".*\\.XESC" />
+297-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+297-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+298            </intent-filter>
+299        </activity>
+300        <activity
+300-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:275:9-280:20
+301            android:name="org.sapplayer.sample.activity.PreferencesActivity"
+301-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:276:13-77
+302            android:noHistory="true" >
+302-->F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:277:13-37
+303
+304            <!-- android:theme="@android:style/Theme.Black.NoTitleBar" -->
+305        </activity>
+306    </application>
+307
+308</manifest>

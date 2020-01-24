@@ -1,0 +1,1306 @@
+[
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_transparent_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_previous_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_previous_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_disconnected_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\status_disconnected_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_pause_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_pause_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_bottom_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_aspect_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_aspect_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dropdown_panel_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cab_background_bottom_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_bottom_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_bottom_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_bottom_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_crop_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_crop_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blank.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\blank.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\menu_actions.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_pause_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_pause_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_next_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_next_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_pause_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_pause_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_play_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_play_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_compact_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_compact_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_zoom_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_zoom_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_realsize_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_realsize_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_crop_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_crop_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_play_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_play_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_play_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_play_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_compact_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_compact_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_aspect_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_aspect_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_next_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_next_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-xxhdpi_player_control_normal_port_xxhdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-xxhdpi\\player_control_normal_port_xxhdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_previous_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_previous_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_play_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_play_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\list_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_play_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_play_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_bottom_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\list_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land-mdpi_player_control_xlarge_land_mdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-land-mdpi\\player_control_xlarge_land_mdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_next_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_next_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_full_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_full_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\list_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-hdpi_player_control_large_port_hdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-port-hdpi\\player_control_large_port_hdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_bg_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_but_close_pressed.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\but_close_pressed.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_app.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\app.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_realsize_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_realsize_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_cab_done_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-port_player_control_xlarge_port.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-port\\player_control_xlarge_port.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-xhdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-xhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-xhdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-land-xhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preview_rightbottom.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\preview_rightbottom.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-xhdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-xhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_button_background.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\color_button_background.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-mdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_aspect_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_aspect_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-xhdpi_player_control_large_land_xhdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-land-xhdpi\\player_control_large_land_xhdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_lock_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_lock_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-mdpi_player_control_large_port_mdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-port-mdpi\\player_control_large_port_mdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_play_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_play_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_crop_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_crop_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-mdpi_player_control_normal_land_mdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-mdpi\\player_control_normal_land_mdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dropdown_panel_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-hdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-land-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_bottom_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_bottom_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_compact_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_compact_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selectable_background_mystyleplayer.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\selectable_background_mystyleplayer.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_stretch_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_stretch_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_primary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\progress_primary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_modify.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\modify.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-port-ldpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-small-port-ldpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-xhdpi_player_control_large_port_xhdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-port-xhdpi\\player_control_large_port_xhdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_pause_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_pause_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_compact_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_compact_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-port-mdpi_player_control_xlarge_port_mdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-port-mdpi\\player_control_xlarge_port_mdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_ab_mystyleplayer.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\tab_indicator_ab_mystyleplayer.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_stretch_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_stretch_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_aspect_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_aspect_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background_ab_mystyleplayer.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\spinner_background_ab_mystyleplayer.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_disconnected.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\status_disconnected.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_close_pressed.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\but_close_pressed.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-ldpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-ldpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_next_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_next_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-hdpi_player_control_normal_port_hdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-hdpi\\player_control_normal_port_hdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land_player_control_xlarge_land.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-land\\player_control_xlarge_land.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_compact_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_compact_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_realsize_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_realsize_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_pause_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_pause_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_zoom_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_zoom_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_next_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_next_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_stretch_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_stretch_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_disabled_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blank_camera.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\blank_camera.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_previous_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_previous_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_zoom_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_zoom_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_lock_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_lock_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_next_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_next_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_next_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_next_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_crop_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_crop_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_but_close_normal.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\but_close_normal.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-mdpi_player_control_large_land_mdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-land-mdpi\\player_control_large_land_mdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_unselected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_compact_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_compact_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-ldpi_player_control_normal_land_ldpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-ldpi\\player_control_normal_land_ldpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preview_rightbottom_32.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\preview_rightbottom_32.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_dropdown_panel_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_locked.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout\\player_locked.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_full_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_full_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_previous_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_previous_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_bottom_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_realsize_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_realsize_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-xxhdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-xxhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_landscape.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\background_landscape.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cab_done_mystyleplayer.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\btn_cab_done_mystyleplayer.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_zoom_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_zoom_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_but_close_normal.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\but_close_normal.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\app.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_lock_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_lock_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_but_close_pressed.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\but_close_pressed.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_full_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_full_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_stretch_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_stretch_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-xhdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-port-xhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_cab_done_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cab_background_top_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_top_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_disabled_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_disabled_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_full_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_full_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_top_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-xxhdpi_player_control_normal_land_xxhdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-xxhdpi\\player_control_normal_land_xxhdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_bg_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\progress_bg_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_texture_tile_mystyleplayer.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile_mystyleplayer.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-xhdpi_player_control_normal_port_xhdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-xhdpi\\player_control_normal_port_xhdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-ldpi_player_control_normal_port_ldpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-ldpi\\player_control_normal_port_ldpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_aspect_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_aspect_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_row_selector.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\item_row_selector.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_but_close_pressed.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\but_close_pressed.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-mdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-port-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_texture_tile_mystyleplayer.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ab_texture_tile_mystyleplayer.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_realsize_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_realsize_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_stop.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\menu_stop.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_lock_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_lock_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_crop_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_crop_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-mdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_border.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\layout_border.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_stretch_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_stretch_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_crop_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_crop_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-port_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-port\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_play_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_play_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_row_divider.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\item_row_divider.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preview_lefttop_32.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\preview_lefttop_32.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-hdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_realsize_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_realsize_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_top_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_realsize_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_realsize_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_next_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_next_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-mdpi_player_control_normal_port_mdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-mdpi\\player_control_normal_port_mdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_transparent_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ab_transparent_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_secondary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\progress_secondary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_cab_done_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_lock_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_lock_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_primary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_archive.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\ic_menu_archive.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_zoom_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_zoom_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_stacked_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_grid_item_close.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\button_grid_item_close.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_realsize_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_realsize_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-mdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-land-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_realsize_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_realsize_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_bg_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_stacked_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_previous_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_previous_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pl_2.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\ic_pl_2.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_pause_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_pause_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_unselected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_full_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_full_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ab_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_stretch_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_stretch_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_crop_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_crop_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_aspect_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_aspect_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_disconnected_audio.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\status_disconnected_audio.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_aspect_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_aspect_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_zoom_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_zoom_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ab_background_textured_mystyleplayer.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\ab_background_textured_mystyleplayer.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_lock_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_lock_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_compact_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_compact_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizontal_mystyleplayer.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\progress_horizontal_mystyleplayer.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_top_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_top_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_next_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_next_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_compact_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_compact_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-ldpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-ldpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-port-xxhdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-port-xxhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_realsize_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_realsize_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_unselected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_crop_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_crop_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_disabled_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_previous_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_previous_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_play_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_play_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_play_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_play_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\app.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_stretch_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_stretch_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_stacked_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_primary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_no_preview.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout\\dialog_no_preview.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_bottom_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_close_normal.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\but_close_normal.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_texture_tile_mystyleplayer.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_mystyleplayer.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_previous_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_previous_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_transparent_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\color-port_tab_text_color.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\color-port\\tab_text_color.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-hdpi_player_control_normal_land_hdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-hdpi\\player_control_normal_land_hdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_pause_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_pause_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_previous_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_previous_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pl_2.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\pl_2.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_next_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_next_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_play_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_play_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_lock_button_background.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\color_lock_button_background.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_stretch_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_stretch_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_dropdown_panel_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\menu_dropdown_panel_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_full_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_full_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\color-land_tab_text_color.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\color-land\\tab_text_color.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_pause_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_pause_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_default_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_full_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_full_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\app.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_primary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_lock_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_lock_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_full_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_full_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_pause_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_pause_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_action_cameras_refresh.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\action_cameras_refresh.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_full_mdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_full_mdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_crop_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_crop_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_zoom_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_zoom_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_secondary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pl.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\pl.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\list_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_play.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\menu_play.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_full_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_full_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land-mdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-land-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-land_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-land\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_zoom_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_zoom_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-land-hdpi_player_control_large_land_hdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-land-hdpi\\player_control_large_land_hdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_compact_xhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_compact_xhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_previous_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_previous_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pl_3.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\pl_3.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_row_doc.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout\\item_row_doc.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_lock_hdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_lock_hdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_stacked_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_stacked_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_compact_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_compact_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_solid_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_player_screen_crop_xhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xhdpi\\player_screen_crop_xhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_transparent_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_transparent_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_screen_stretch_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_screen_stretch_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_player_screen_aspect_hdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\player_screen_aspect_hdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_overflow_image.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\my_overflow_image.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_secondary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_bottom_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_texture_tile_mystyleplayer.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_texture_tile_mystyleplayer.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-hdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_zoom_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_zoom_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_but_close_normal.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\but_close_normal.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_min.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\min.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-land-ldpi_player_control_small_land_ldpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-small-land-ldpi\\player_control_small_land_ldpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_disabled_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_zoom_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_zoom_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preview_lefttop.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\preview_lefttop.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_lock_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_lock_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-land-ldpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-small-land-ldpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_aspect_ldpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_aspect_ldpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_focused_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_screen_stretch_xxhdpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_screen_stretch_xxhdpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blank_camera2.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\blank_camera2.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-port-mdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-xlarge-port-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_player_lock_mdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\player_lock_mdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_player_previous_xxhdpi_scaled.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\player_previous_xxhdpi_scaled.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-mdpi\\list_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_pressed_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-hdpi\\list_pressed_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-small-port-ldpi_player_control_small_port_ldpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-small-port-ldpi\\player_control_small_port_ldpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blank_camera2_audio.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable\\blank_camera2_audio.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_secondary_mystyleplayer.9.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-xxhdpi\\progress_secondary_mystyleplayer.9.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_screen_aspect_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_screen_aspect_ldpi.png"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-normal-land-xhdpi_player_control_normal_land_xhdpi.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-normal-land-xhdpi\\player_control_normal_land_xhdpi.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-port-hdpi_activity_main.xml.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\layout-large-port-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_player_pause_ldpi.png.flat",
+        "source": "F:\\Nikhil\\2020\\EXPERIMENTS\\TV\\PLAYERSDK\\SAPPlayer1\\app\\src\\main\\res\\drawable-ldpi\\player_pause_ldpi.png"
+    }
+]

@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:1-283:12
+	package
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:6:5-35
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:10:5-86
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:10:22-83
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:16:22-65
+application
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:18:5-281:16
+	android:label
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:22:9-41
+	android:hardwareAccelerated
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:24:9-43
+	android:largeHeap
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:25:9-33
+	android:icon
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:20:9-37
+	android:allowBackup
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:23:9-40
+	android:logo
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:21:9-37
+activity#org.sapplayer.sample.activity.MainActivity
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:27:9-273:20
+	android:label
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:29:13-45
+	android:noHistory
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:31:13-37
+	android:configChanges
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:28:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:35:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:httplive+data:scheme:icyx+data:scheme:mms+data:scheme:mmsh+data:scheme:rtmp+data:scheme:rtmpe+data:scheme:rtmps+data:scheme:rtp+data:scheme:rtsp+data:scheme:udp+data:scheme:vlc
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:38:13-54:29
+action#android.intent.action.VIEW
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:40:27-73
+category#android.intent.category.BROWSABLE
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:17-78
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:41:27-75
+data
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:17-47
+	android:host
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:115:32-48
+	android:scheme
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:43:23-44
+	android:pathPattern
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:116:14-45
+	android:mimeType
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:60:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:mimeType:video/*+data:scheme:httplive+data:scheme:icyx+data:scheme:mms+data:scheme:mmsh+data:scheme:rtmp+data:scheme:rtmpe+data:scheme:rtmps+data:scheme:rtp+data:scheme:rtsp+data:scheme:udp
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:56:13-74:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/avi+data:mimeType:*/mkv+data:mimeType:*/rmvb+data:mimeType:application/3gpp*+data:mimeType:application/mp4+data:mimeType:application/mpeg*+data:mimeType:application/ogg+data:mimeType:application/sdp+data:mimeType:application/vnd.3gp*+data:mimeType:application/vnd.apple.mpegurl+data:mimeType:application/vnd.dolby*+data:mimeType:application/vnd.dvd*+data:mimeType:application/vnd.rn-realmedia*+data:mimeType:application/x-extension-mp4+data:mimeType:application/x-flac+data:mimeType:application/x-matroska+data:mimeType:application/x-mpegURL+data:mimeType:application/x-ogg+data:mimeType:application/x-quicktimeplayer+data:mimeType:application/x-shockwave-flash+data:mimeType:application/xspf+xml+data:mimeType:audio/*+data:mimeType:misc/ultravox+data:mimeType:video/*+data:scheme:+data:scheme:content+data:scheme:file+data:scheme:ftp+data:scheme:http+data:scheme:https
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:75:13-109:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:host:*+data:host:*+data:host:*+data:pathPattern:.*\\..*\\..*\\..*\\.m3u8+data:pathPattern:.*\\..*\\..*\\..m3u8+data:pathPattern:.*\\..*\\.m3u8+data:pathPattern:.*\\.m3u8+data:scheme:http+data:scheme:http+data:scheme:http+data:scheme:http
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:111:13-123:20
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:host:*+data:host:*+data:host:*+data:pathPattern:.*\\..*\\..*\\..*\\.m3u+data:pathPattern:.*\\..*\\..*\\..m3u+data:pathPattern:.*\\..*\\.m3u+data:pathPattern:.*\\.m3u+data:scheme:http+data:scheme:http+data:scheme:http+data:scheme:http
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:125:4-137:20
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:pathPattern:.*\\.3G2+data:pathPattern:.*\\.3GP+data:pathPattern:.*\\.3GP2+data:pathPattern:.*\\.3GPP+data:pathPattern:.*\\.3g2+data:pathPattern:.*\\.3gp+data:pathPattern:.*\\.3gp2+data:pathPattern:.*\\.3gpp+data:pathPattern:.*\\.AMV+data:pathPattern:.*\\.ASF+data:pathPattern:.*\\.AVI+data:pathPattern:.*\\.DIVX+data:pathPattern:.*\\.DRC+data:pathPattern:.*\\.DV+data:pathPattern:.*\\.F4V+data:pathPattern:.*\\.FLV+data:pathPattern:.*\\.GVI+data:pathPattern:.*\\.GXF+data:pathPattern:.*\\.ISMV+data:pathPattern:.*\\.ISO+data:pathPattern:.*\\.M1V+data:pathPattern:.*\\.M2T+data:pathPattern:.*\\.M2TS+data:pathPattern:.*\\.M2V+data:pathPattern:.*\\.M3U+data:pathPattern:.*\\.MKV+data:pathPattern:.*\\.MOV+data:pathPattern:.*\\.MP2+data:pathPattern:.*\\.MP2V+data:pathPattern:.*\\.MP4+data:pathPattern:.*\\.MP4V+data:pathPattern:.*\\.MPE+data:pathPattern:.*\\.MPEG+data:pathPattern:.*\\.MPEG1+data:pathPattern:.*\\.MPEG2+data:pathPattern:.*\\.MPEG4+data:pathPattern:.*\\.MPG+data:pathPattern:.*\\.MPV2+data:pathPattern:.*\\.MTS+data:pathPattern:.*\\.MTV+data:pathPattern:.*\\.MXF+data:pathPattern:.*\\.MXG+data:pathPattern:.*\\.NSV+data:pathPattern:.*\\.NUT+data:pathPattern:.*\\.NUV+data:pathPattern:.*\\.OGM+data:pathPattern:.*\\.OGV+data:pathPattern:.*\\.OGX+data:pathPattern:.*\\.PS+data:pathPattern:.*\\.REC+data:pathPattern:.*\\.RM+data:pathPattern:.*\\.RMVB+data:pathPattern:.*\\.TOD+data:pathPattern:.*\\.TS+data:pathPattern:.*\\.TTS+data:pathPattern:.*\\.VOB+data:pathPattern:.*\\.VRO+data:pathPattern:.*\\.WEBM+data:pathPattern:.*\\.WM+data:pathPattern:.*\\.WMV+data:pathPattern:.*\\.WTV+data:pathPattern:.*\\.XESC+data:pathPattern:.*\\.amv+data:pathPattern:.*\\.asf+data:pathPattern:.*\\.avi+data:pathPattern:.*\\.divx+data:pathPattern:.*\\.drc+data:pathPattern:.*\\.dv+data:pathPattern:.*\\.f4v+data:pathPattern:.*\\.flv+data:pathPattern:.*\\.gvi+data:pathPattern:.*\\.gxf+data:pathPattern:.*\\.ismv+data:pathPattern:.*\\.iso+data:pathPattern:.*\\.m1v+data:pathPattern:.*\\.m2t+data:pathPattern:.*\\.m2ts+data:pathPattern:.*\\.m2v+data:pathPattern:.*\\.m3u+data:pathPattern:.*\\.mkv+data:pathPattern:.*\\.mov+data:pathPattern:.*\\.mp2+data:pathPattern:.*\\.mp2v+data:pathPattern:.*\\.mp4+data:pathPattern:.*\\.mp4v+data:pathPattern:.*\\.mpe+data:pathPattern:.*\\.mpeg+data:pathPattern:.*\\.mpeg1+data:pathPattern:.*\\.mpeg2+data:pathPattern:.*\\.mpeg4+data:pathPattern:.*\\.mpg+data:pathPattern:.*\\.mpv2+data:pathPattern:.*\\.mts+data:pathPattern:.*\\.mtv+data:pathPattern:.*\\.mxf+data:pathPattern:.*\\.mxg+data:pathPattern:.*\\.nsv+data:pathPattern:.*\\.nut+data:pathPattern:.*\\.nuv+data:pathPattern:.*\\.ogm+data:pathPattern:.*\\.ogv+data:pathPattern:.*\\.ogx+data:pathPattern:.*\\.ps+data:pathPattern:.*\\.rec+data:pathPattern:.*\\.rm+data:pathPattern:.*\\.rmvb+data:pathPattern:.*\\.tod+data:pathPattern:.*\\.ts+data:pathPattern:.*\\.tts+data:pathPattern:.*\\.vob+data:pathPattern:.*\\.vro+data:pathPattern:.*\\.webm+data:pathPattern:.*\\.wm+data:pathPattern:.*\\.wmv+data:pathPattern:.*\\.wtv+data:pathPattern:.*\\.xesc+data:scheme:+data:scheme:content+data:scheme:file+data:scheme:ftp+data:scheme:http+data:scheme:https
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:139:13-272:29
+activity#org.sapplayer.sample.activity.PreferencesActivity
+ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:275:9-280:20
+	android:noHistory
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:277:13-37
+	android:name
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml:276:13-77
+uses-sdk
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		ADDED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Nikhil\2020\EXPERIMENTS\TV\PLAYERSDK\SAPPlayer1\app\src\main\AndroidManifest.xml
